@@ -1,0 +1,53 @@
+{
+  "OWNER_NAME": "Gabriel Valença",
+  "OWNER_ROLE": "Engenheiro de Computação & Diretor de Projetos",
+  "OWNER_PERSONAL_WHATSAPP": "5512997082889",
+  "COMPANY_NAME": "LegenTech",
+  "COMPANY_WEBSITE": "legentech.autoleggend.shop",
+  "EVOLUTION_INSTANCE_NAME": "legentech",
+  "GOOGLE_CALENDAR_ID": "seu_email@gmail.com_ou_id_da_agenda",
+  "GOOGLE_CALENDAR_LINK": "https://calendar.app.google/x9VbDemoCalendarLink",
+  "ONE_LINE_PITCH": "Estruturamos CRM, automação de atendimento e painéis de BI sob medida para eliminar perda de clientes no WhatsApp e dar controle financeiro em tempo real.",
+  "HOW_IT_WORKS": [
+    "Auditoria gratuita do gargalo no atendimento/gestão",
+    "Implantação de CRM integrado ao WhatsApp + Dashboard de BI em tempo real",
+    "Acompanhamento de métricas de conversão, recorrência e lucro líquido"
+  ],
+  "REVENUE_MODEL": "Setup de implementação sob medida + Mensalidade de manutenção/evolução (SaaS/Retainer)",
+  "MARKET_JARGON": {
+    "No-show": "Paciente que agenda e falta sem avisar",
+    "CMV": "Custo de Mercadoria Vendida em restaurantes",
+    "Lead esfriando": "Cliente que pede orçamento no WhatsApp e fica sem follow-up estruturado",
+    "LTV": "Valor gasto pelo cliente ao longo do tempo"
+  },
+  "VERIFIED_CLAIMS": [
+    "Centralização de atendimento de WhatsApp em Kanban CRM",
+    "Dashboards de BI atualizados em tempo real",
+    "Automação de lembretes de agendamento e reativação de clientes inativos",
+    "Desenvolvimento sob medida adaptado à rotina atual da empresa sem obrigar a equipe a aprender sistemas complexos"
+  ],
+  "UNVERIFIED_CLAIMS": [
+    "Garantia de aumento percentual fixo de faturamento",
+    "Substituição total de funcionários",
+    "Integração nativa oficial com ERPs fechados sem API"
+  ],
+  "ICP_SEGMENTS": [
+    "Clínicas Médicas, Odontológicas e Estéticas",
+    "Restaurantes, Hamburguerias e Operações de Delivery",
+    "Comércios Locais e Prestadores de Serviços de Pequeno/Médio Porte"
+  ],
+  "ICP_KEYWORDS": [
+    "clínica odontológica",
+    "clínica de estética",
+    "hamburgueria",
+    "restaurante",
+    "loja",
+    "corretora",
+    "escritório"
+  ],
+  "GEOGRAPHY": [
+    "Itajubá - MG",
+    "Pouso Alegre - MG",
+    "Sul de Minas e Vale do Paraíba"
+  ]
+}

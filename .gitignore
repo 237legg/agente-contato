@@ -1,0 +1,38 @@
+# Secrets and Config
+.env
+.env*.local
+config/business.json
+
+# Database and runtime
+*.db
+*.db-wal
+*.db-shm
+data/
+backups/
+projects/
+screenshots/
+
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js build
+.next/
+/out/
+/build/
+/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TypeScript cache
+*.tsbuildinfo
+
